@@ -1,0 +1,24 @@
+_repo: The-Men-of-the-Nineties_53142
+_version: 0.0.1
+alternative_title: The Men of the 90s
+creator:
+  author:
+    agent_name: Muddiman, Bernard
+    gutenberg_agent_id: '47236'
+    url: http://www.gutenberg.org/2009/agents/47236
+description: ''
+gutenberg_issued: '2016-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- England'
+- !lcc 'PR'
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- GITenberg
+title: The Men of the Nineties
+url: http://www.gutenberg.org/ebooks/53142
